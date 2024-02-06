@@ -1,0 +1,42 @@
+export const module_data = [
+  {
+    url: "/",
+    phase: "Phase 1: ",
+    name: "Inner Critic",
+    date: "Due Date: Jul 8",
+    isComplete: true,
+    index: 0,
+  },
+  {
+    url: "/small_steps",
+    phase: "Phase 2: ",
+    name: "Small Steps",
+    date: "Due Date: Jul 8",
+    isComplete: false,
+    index: 1,
+  },
+  {
+    url: "/big_leaps",
+    phase: "Phase 3: ",
+    name: "Big leaps",
+    date: "Due Date: Jul 8",
+    isComplete: false,
+    index: 2,
+  },
+  {
+    url: "/coaching_session",
+    phase: "Phase 4: ",
+    name: "Coaching session",
+    date: "Due Date: Jul 8",
+    isComplete: false,
+    index: 3,
+  },
+  {
+    url: "/inner_session",
+    phase: "Phase 5: ",
+    name: "Inner Session",
+    date: "Due Date: Jul 8",
+    isComplete: false,
+    index: 4,
+  },
+];
