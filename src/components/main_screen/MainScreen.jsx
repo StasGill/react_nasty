@@ -50,7 +50,7 @@ const MainScreen = ({ isActive, setActive, data, setData }) => {
                   viewBox="0 0 8 13"
                   fill="none"
                   xmlns="http://www.w3.org/2000/svg"
-                  className="main_screen_headers_icon-profile shevron"
+                  className="main_screen_headers_icon-profiles shevron"
                 >
                   <path
                     d="M6.625 1.25L1.375 6.5L6.625 11.75"
@@ -76,7 +76,7 @@ const MainScreen = ({ isActive, setActive, data, setData }) => {
                   viewBox="0 0 8 13"
                   fill="none"
                   xmlns="http://www.w3.org/2000/svg"
-                  className="main_screen_headers_icon-profile shevron"
+                  className="main_screen_headers_icon-profiles shevron"
                 >
                   <path
                     d="M1.375 11.75L6.625 6.5L1.375 1.25"
